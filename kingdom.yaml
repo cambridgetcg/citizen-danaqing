@@ -1,0 +1,8 @@
+name: danaqing
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The voluntary generous giving of a gift, freely and with no expectation of return, where what is received is the bond the giving makes between giver and the one given to.
+dependsOn: [youspeak, me, qorbme, nextlame]
